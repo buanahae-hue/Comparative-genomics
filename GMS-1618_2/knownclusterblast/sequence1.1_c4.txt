@@ -1,0 +1,96 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_37480	2920545	2920779	+	hypothetical protein	
+LOCUS_37490	2920775	2921354	+	hypothetical protein	
+LOCUS_37500	2921399	2922098	+	hypothetical protein	
+LOCUS_37510	2922281	2922965	-	NH(3)-dependent NAD(+) synthetase	
+LOCUS_37520	2922989	2923676	-	putative nicotinate-nucleotide adenylyltransferase	
+LOCUS_37530	2923691	2925161	-	nicotinate phosphoribosyltransferase	
+LOCUS_37540	2925192	2925741	-	isochorismatase	
+LOCUS_37550	2925789	2926560	-	ADP-ribose pyrophosphatase	
+LOCUS_37560	2926709	2927102	-	hypothetical protein	
+LOCUS_37570	2927303	2928224	-	hypothetical protein	
+LOCUS_37580	2928231	2929098	-	hypothetical protein	
+LOCUS_37590	2929114	2930296	-	hypothetical protein	
+LOCUS_37600	2930292	2930760	-	hypothetical protein	
+LOCUS_37610	2930777	2931083	-	hypothetical protein	
+LOCUS_37620	2931072	2932011	-	hypothetical protein	
+LOCUS_37630	2932291	2932489	-	hypothetical protein	
+LOCUS_37640	2932452	2934228	-	asparagine synthetase B	
+LOCUS_37650	2934363	2934858	-	hypothetical protein	
+LOCUS_37660	2935040	2935922	-	hypothetical protein	
+LOCUS_37670	2935936	2937127	-	hypothetical protein	
+LOCUS_37680	2937175	2937835	-	hypothetical protein	
+LOCUS_37690	2937966	2938356	-	hypothetical protein	
+LOCUS_37700	2938360	2939107	-	glycosyl transferase	
+LOCUS_37710	2939126	2939426	-	transcriptional regulator	
+LOCUS_37720	2939505	2940072	-	hypothetical protein	
+LOCUS_37730	2940127	2940466	-	hypothetical protein	
+LOCUS_37740	2940674	2941235	-	putative acetyltransferase EpsM	
+LOCUS_37750	2941320	2941920	-	putative sugar transferase EpsL	
+LOCUS_37760	2941928	2942114	-	hypothetical protein	
+LOCUS_37770	2942261	2943170	-	UDP-glucose 4-epimerase	
+LOCUS_37780	2943205	2944207	-	transmembrane protein EpsG	
+
+
+Significant hits: 
+1. BGC0001356	paeninodin
+2. BGC0000760	emulsan
+
+
+Details:
+
+>>
+1. BGC0001356
+Source: paeninodin
+Type: RiPP
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1398
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+LOCUS_37570	PDENDC454_19528	54	331	100.0	2e-90
+LOCUS_37580	PDENDC454_19528	47	240	98.61111111111111	2.6e-63
+LOCUS_37600	PDENDC454_19523	48	135	86.45161290322581	8.2e-32
+LOCUS_37610	PDENDC454_19518	49	90	80.19801980198021	2e-18
+LOCUS_37640	PDENDC454_19508	50	602	98.47715736040608	5.3e-172
+
+
+
+>>
+2. BGC0000760
+Source: emulsan
+Type: Saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 532
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB57192.1	CAB57192.1	1	534	-	putative_macrophage_infectivity_potentiator
+CAB57193.1	CAB57193.1	711	2891	-	protein_tyrosine_kinase
+CAB57194.1	CAB57194.1	2911	3339	-	putative_protein_tyrosine_phosphatase
+CAB57195.1	CAB57195.1	3345	4445	-	putative_outer_membrane_protein
+CAB57196.1	CAB57196.1	5062	6192	+	putative_UDP-N-acetylglucosamine_2-epimerase
+CAB57197.1	CAB57197.1	6225	7478	+	putative_NDP-N-acetyl-D-galactosaminuronic_acid_dehydrogenase
+CAB57198.1	CAB57198.1	7479	8033	+	putative_galactoside_acetyltransferase
+CAB57199.1	CAB57199.1	8039	9244	+	putative_emulsan_repeating_unit_flippase
+CAB57200.1	CAB57200.1	9241	10551	+	putative_emulsan_repeating_unit_polymerase
+CAB57201.1	CAB57201.1	10552	11511	+	putative_glycosyl_transferase
+CAB57202.1	CAB57202.1	11511	13649	+	unknown
+CAB57203.1	CAB57203.1	13646	15460	+	
+CAB57204.1	CAB57204.1	15457	16668	+	putative_glycosyltransferase
+CAB57205.1	CAB57205.1	16670	17281	+	putative_UDP-galactose_phosphate_transferase
+CAB57206.1	CAB57206.1	17278	17928	+	putative_acetyltransferase
+CAB57207.1	CAB57207.1	17960	19135	+	putative_amino-transferase
+CAB57208.1	CAB57208.1	19273	21147	+	putative_dTDP-glucose-4,6-dehydratase
+CAB57209.1	CAB57209.1	21161	22036	+	putative_UTP-glucose-1-phosphate_uridylyltransferase
+CAB57210.1	CAB57210.1	22053	23303	+	putative_UDP-glucose_dehydrogenase
+CAB57211.1	CAB57211.1	23306	24979	+	putative_phosphoglucose_isomerase
+CAB57212.1	CAB57212.1	24972	25988	+	putative_UDP-glucose_4-epimerase
+CAB57213.1	CAB57213.1	26036	26953	-	putative_phosphoglucomutase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+LOCUS_37750	CAB57205.1	57	218	98.99497487437185	7.2e-57
+LOCUS_37770	CAB57212.1	54	314	97.35099337748345	2.5e-85
+

@@ -1,0 +1,27 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_24260	1925351	1926032	+	hypothetical protein	
+LOCUS_24270	1926231	1926933	+	copper homeostasis protein CutC	
+LOCUS_24280	1927131	1928496	+	diaminobutyrate--2-oxoglutarate aminotransferase	
+LOCUS_24290	1928497	1929250	+	hypothetical protein	
+LOCUS_24300	1929365	1930025	+	hypothetical protein	
+LOCUS_24310	1930002	1931745	+	petrobactin biosynthesis protein AsbA	
+LOCUS_24320	1931741	1932341	+	rhizobactin siderophore biosynthesis protein RhbD	
+LOCUS_24330	1932359	1933604	+	lysine 6-monooxygenase	
+LOCUS_24340	1934324	1934768	+	hypothetical protein	
+LOCUS_24350	1934764	1936570	+	iron transporter	
+LOCUS_24360	1936959	1937877	+	hypothetical protein	
+LOCUS_24370	1937873	1938188	+	hypothetical protein	
+LOCUS_24380	1938171	1938537	+	hypothetical protein	
+LOCUS_24390	1938600	1939503	+	formyltetrahydrofolate deformylase	
+LOCUS_24400	1939855	1940158	+	hypothetical protein	
+LOCUS_24410	1940239	1940644	+	hypothetical protein	
+LOCUS_24420	1940647	1941127	+	dihydrofolate reductase	
+LOCUS_24430	1941235	1941544	+	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

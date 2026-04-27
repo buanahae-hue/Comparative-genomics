@@ -1,0 +1,88 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_23010	1812953	1813385	+	hypothetical protein	
+LOCUS_23020	1813586	1814132	+	spore coat protein E	
+LOCUS_23030	1814268	1816551	+	DNA mismatch repair protein MutS	
+LOCUS_23040	1816492	1816924	+	hypothetical protein	
+LOCUS_23050	1816943	1818845	+	DNA mismatch repair protein MutL	
+LOCUS_23060	1819087	1819324	+	hypothetical protein	
+LOCUS_23070	1819320	1819518	-	hypothetical protein	
+LOCUS_23080	1820130	1820316	+	hypothetical protein	
+LOCUS_23090	1820399	1820963	+	hypothetical protein	
+LOCUS_23100	1820997	1821222	+	RNA-binding protein Hfq	
+LOCUS_23110	1821477	1822413	+	stage V sporulation protein K	
+LOCUS_23120	1822443	1823055	-	UPF0126 membrane protein YvgT	
+LOCUS_23130	1823302	1824565	+	GTPase HflX	
+LOCUS_23140	1824577	1825087	+	hypothetical protein	
+LOCUS_23150	1825083	1825845	+	hypothetical protein	
+LOCUS_23160	1826037	1826460	+	HTH-type transcriptional regulator GlnR	
+LOCUS_23170	1826541	1827876	+	glutamine synthetase	
+LOCUS_23180	1828341	1828626	+	hypothetical protein	
+LOCUS_23190	1828723	1828978	-	hypothetical protein	
+LOCUS_23200	1829342	1830074	-	integrase	
+LOCUS_23210	1830178	1830463	-	transposase	
+LOCUS_23220	1830545	1831349	+	hypothetical protein	
+LOCUS_23230	1832728	1835008	+	hypothetical protein	
+LOCUS_23240	1834988	1840331	+	hypothetical protein	
+LOCUS_23250	1840510	1842895	+	hypothetical protein	
+LOCUS_23260	1843085	1844948	+	hypothetical protein	
+LOCUS_23270	1844898	1848381	+	surfactin synthase subunit 3	
+LOCUS_23280	1848418	1849486	+	hypothetical protein	
+LOCUS_23290	1849535	1850372	+	hypothetical protein	
+LOCUS_23300	1850352	1853598	+	hypothetical protein	
+LOCUS_23310	1853662	1855951	+	hypothetical protein	
+LOCUS_23320	1856044	1857733	+	ABC transporter permease	
+LOCUS_23330	1857768	1858422	+	4'-phosphopantetheinyl transferase	
+LOCUS_23340	1858570	1859224	+	hypothetical protein	
+LOCUS_23350	1859480	1860404	+	bacitracin ABC transporter ATP-binding protein	
+LOCUS_23360	1860538	1861243	+	bacitracin ABC transporter permease	
+LOCUS_23370	1861288	1862107	+	hypothetical protein	
+LOCUS_23380	1862364	1862646	+	transition state regulator Abh	
+LOCUS_23390	1863040	1863721	+	hypothetical protein	
+LOCUS_23400	1863671	1863986	+	hypothetical protein	
+LOCUS_23410	1864098	1864812	+	DNA-binding response regulator	
+LOCUS_23420	1864813	1865749	+	two-component sensor histidine kinase	
+LOCUS_23430	1865912	1866401	-	hypothetical protein	
+LOCUS_23440	1866393	1866690	-	hypothetical protein	
+LOCUS_23450	1867034	1868096	-	hypothetical protein	
+LOCUS_23460	1868541	1868700	+	hypothetical protein	
+LOCUS_23470	1868737	1869184	-	hypothetical protein	
+LOCUS_23480	1869271	1870135	-	hypothetical protein	
+LOCUS_23490	1870152	1870803	-	hypothetical protein	
+LOCUS_23500	1870894	1871038	-	hypothetical protein	
+LOCUS_23510	1871021	1871858	-	hypothetical protein	
+LOCUS_23520	1871951	1872149	+	hypothetical protein	
+LOCUS_23530	1872756	1873680	+	acetyltransferase	
+LOCUS_23540	1874323	1874608	+	hypothetical protein	
+LOCUS_23550	1875429	1875648	+	hypothetical protein	
+
+
+Significant hits: 
+1. BGC0000310	bacitracin
+
+
+Details:
+
+>>
+1. BGC0000310
+Source: bacitracin
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 495
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAD21211.1	AAD21211.1	411	1115	+	BacT
+AAC06346.1	AAC06346.1	1451	17218	+	bacitracin_synthetase_1
+AAC06347.1	AAC06347.1	17330	25153	+	bacitracin_synthetase_2
+AAC06348.1	AAC06348.1	25258	44337	+	bacitracin_synthetase_3
+AAD21216.2	AAD21216.2	44497	45213	+	BacR
+AAD21212.2	AAD21212.2	45191	46237	+	BacS
+AAD21213.1	AAD21213.1	46313	47233	+	BcrA
+AAD21214.1	AAD21214.1	47334	47960	+	BcrB
+AAD21215.1	AAD21215.1	48081	48692	+	BcrC
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+LOCUS_23350	AAD21213.1	47	282	98.37133550488599	8.2e-76
+LOCUS_23410	AAD21216.2	46	213	97.0464135021097	4.7e-55
+

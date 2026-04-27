@@ -1,0 +1,36 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_37860	2950160	2950895	-	capsular polysaccharide biosynthesis protein	
+LOCUS_37870	2951111	2951624	-	hypothetical protein	
+LOCUS_37880	2952027	2952357	-	transcriptional regulator	
+LOCUS_37890	2952474	2952660	-	hypothetical protein	
+LOCUS_37900	2952804	2953638	-	hypothetical protein	
+LOCUS_37910	2953787	2954696	+	hypothetical protein	
+LOCUS_37920	2954897	2955569	-	hypothetical protein	
+LOCUS_37930	2955501	2956023	-	hypothetical protein	
+LOCUS_37940	2956047	2956368	-	hypothetical protein	
+LOCUS_37950	2956583	2957465	+	isomerase	
+LOCUS_37960	2957517	2957802	-	hypothetical protein	
+LOCUS_37970	2957907	2958291	-	hypothetical protein	
+LOCUS_37980	2958358	2958961	-	hypothetical protein	
+LOCUS_37990	2959109	2959571	+	hypothetical protein	
+LOCUS_38000	2959716	2959947	+	hypothetical protein	
+LOCUS_38010	2960075	2960969	+	hypothetical protein	
+LOCUS_38020	2961020	2961599	-	hypothetical protein	
+LOCUS_38030	2961807	2962332	-	N-acetyltransferase	
+LOCUS_38040	2962352	2963183	-	hypothetical protein	
+LOCUS_38050	2963316	2964585	+	hypothetical protein	
+LOCUS_38060	2964532	2964925	+	hypothetical protein	
+LOCUS_38070	2964924	2966427	+	hypothetical protein	
+LOCUS_38080	2966787	2967171	+	SET domain-containing protein-lysine N-methyltransferase	
+LOCUS_38090	2967205	2967595	-	hypothetical protein	
+LOCUS_38100	2967841	2969488	-	hypothetical protein	
+LOCUS_38110	2969555	2969759	-	hypothetical protein	
+LOCUS_38120	2969770	2970658	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

@@ -1,0 +1,44 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_02200	183283	183685	+	membrane protein	
+LOCUS_02210	183735	184209	+	membrane protein	
+LOCUS_02220	184247	184739	-	kynurenine formamidase	
+LOCUS_02230	184897	185143	-	hypothetical protein	
+LOCUS_02240	185124	185328	-	hypothetical protein	
+LOCUS_02250	185442	185658	-	hypothetical protein	
+LOCUS_02260	185809	187084	-	kynureninase	
+LOCUS_02270	187370	188486	-	transposase	
+LOCUS_02280	188676	189291	+	TetR family transcriptional regulator	
+LOCUS_02290	189317	189887	-	hypothetical protein	
+LOCUS_02300	189867	190059	-	hypothetical protein	
+LOCUS_02310	190083	190746	-	amino acid ABC transporter substrate-binding protein	
+LOCUS_02320	190880	191717	-	ABC transporter substrate-binding protein	
+LOCUS_02330	192155	193031	-	membrane protein	
+LOCUS_02340	193211	193343	-	hypothetical protein	
+LOCUS_02350	193323	193959	-	accessory gene regulator B	
+LOCUS_02360	194192	194543	+	PadR family transcriptional regulator	
+LOCUS_02370	194539	195052	+	hypothetical protein	
+LOCUS_02380	195224	195740	-	membrane protein	
+LOCUS_02390	195848	196049	-	hypothetical protein	
+LOCUS_02400	196081	196282	-	hypothetical protein	
+LOCUS_02410	196320	196521	-	hypothetical protein	
+LOCUS_02420	196552	197248	-	hypothetical protein	
+LOCUS_02430	197430	197601	-	hypothetical protein	
+LOCUS_02440	197593	198319	-	ABC transporter	
+LOCUS_02450	198333	199170	-	hypothetical protein	
+LOCUS_02460	199156	199747	-	hypothetical protein	
+LOCUS_02470	200203	200380	+	hypothetical protein	
+LOCUS_02480	200380	200746	-	hypothetical protein	
+LOCUS_02490	200904	201747	+	signal transduction histidine kinase	
+LOCUS_02500	201760	201976	+	hypothetical protein	
+LOCUS_02510	201998	202280	+	hypothetical protein	
+LOCUS_02520	202335	202524	+	hypothetical protein	
+LOCUS_02530	202637	203150	-	signal peptidase I	
+LOCUS_02540	203471	203897	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

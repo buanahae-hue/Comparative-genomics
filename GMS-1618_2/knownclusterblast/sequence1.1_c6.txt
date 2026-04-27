@@ -1,0 +1,56 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_41750	3242542	3243367	-	D-aminopeptidase	
+LOCUS_41760	3243684	3244983	+	purine permease	
+LOCUS_41770	3245021	3245282	-	hypothetical protein	
+LOCUS_41780	3245269	3246748	-	hypothetical protein	
+LOCUS_41790	3246659	3249206	-	hypothetical protein	
+LOCUS_41800	3249428	3249803	+	hypothetical protein	
+LOCUS_41810	3249857	3250010	-	hypothetical protein	
+LOCUS_41820	3250093	3250237	-	hypothetical protein	
+LOCUS_41830	3250335	3250635	-	hypothetical protein	
+LOCUS_41840	3250712	3251567	-	hypothetical protein	
+LOCUS_41850	3251888	3253106	+	putative transporter YutK	
+LOCUS_41860	3253139	3253412	-	hypothetical protein	
+LOCUS_41870	3253614	3253887	-	hypothetical protein	
+LOCUS_41880	3253942	3254125	-	hypothetical protein	
+LOCUS_41890	3254152	3254335	-	hypothetical protein	
+LOCUS_41900	3254315	3254807	-	hypothetical protein	
+LOCUS_41910	3255026	3255410	+	ribonuclease H	
+LOCUS_41920	3255419	3255695	-	hypothetical protein	
+LOCUS_41930	3255759	3256218	-	membrane protein	
+LOCUS_41940	3256314	3256644	-	hypothetical protein	
+LOCUS_41950	3256951	3257080	-	hypothetical protein	
+LOCUS_41960	3257093	3257861	-	hypothetical protein	
+LOCUS_41970	3257847	3259839	-	hypothetical protein	
+LOCUS_41980	3259832	3261221	-	hypothetical protein	
+LOCUS_41990	3261225	3261477	-	hypothetical protein	
+LOCUS_42000	3261850	3262417	-	hypothetical protein	
+LOCUS_42010	3262452	3263508	-	putative chalcone synthase	
+LOCUS_42020	3263705	3264245	-	N-acetyltransferase	
+LOCUS_42030	3264538	3265849	-	xanthine permease	
+LOCUS_42040	3265850	3266444	-	xanthine phosphoribosyltransferase	
+LOCUS_42050	3266778	3268296	-	carboxypeptidase M32	
+LOCUS_42060	3268497	3270378	-	ATP-dependent helicase	
+LOCUS_42070	3270586	3270772	-	hypothetical protein	
+LOCUS_42080	3271509	3271962	-	hypothetical protein	
+LOCUS_42090	3271968	3272655	-	hypothetical protein	
+LOCUS_42100	3272819	3274484	-	alpha-glucosidase	
+LOCUS_42110	3274620	3275247	-	DNA-binding response regulator	
+LOCUS_42120	3275269	3276298	-	sensor histidine kinase	
+LOCUS_42130	3276294	3277011	-	hypothetical protein	
+LOCUS_42140	3277134	3277758	-	phage shock protein A	
+LOCUS_42150	3277770	3278112	-	hypothetical protein	
+LOCUS_42160	3278767	3279103	-	cell cycle protein GpsB	
+LOCUS_42170	3279206	3279593	-	hypothetical protein	
+LOCUS_42180	3279606	3279759	-	hypothetical protein	
+LOCUS_42190	3279831	3280218	-	hypothetical protein	
+LOCUS_42200	3280570	3281320	-	hypothetical protein	
+LOCUS_42210	3281304	3281829	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

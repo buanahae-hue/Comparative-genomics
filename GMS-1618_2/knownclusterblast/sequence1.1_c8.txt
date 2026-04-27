@@ -1,0 +1,60 @@
+ClusterBlast scores for sequence1.1
+
+Table of genes, locations, strands and annotations of query cluster:
+LOCUS_51450	3991506	3991869	+	hypothetical protein	
+LOCUS_51460	3991879	3992899	-	hypothetical protein	
+LOCUS_51470	3992805	3993540	-	hypothetical protein	
+LOCUS_51480	3993608	3994367	-	hypothetical protein	
+LOCUS_51490	3994363	3994813	-	hypothetical protein	
+LOCUS_51500	3994850	3995102	-	hypothetical protein	
+LOCUS_51510	3995121	3995553	-	hypothetical protein	
+LOCUS_51520	3995558	3995741	-	hypothetical protein	
+LOCUS_51530	3995809	3996403	-	hypothetical protein	
+LOCUS_51540	3996679	3997699	-	LacI family transcriptional regulator	
+LOCUS_51550	3997915	3999235	-	hypothetical protein	
+LOCUS_51560	3999367	4000243	-	hypothetical protein	
+LOCUS_51570	4000154	4000766	-	hypothetical protein	
+LOCUS_51580	4000792	4001134	-	nitrogen regulatory protein P-II	
+LOCUS_51590	4001377	4002214	-	dehydrosqualene synthase	
+LOCUS_51600	4002285	4003740	-	dehydrosqualene desaturase	
+LOCUS_51610	4003736	4005266	-	phytoene desaturase	
+LOCUS_51620	4005551	4006724	-	hypothetical protein	
+LOCUS_51630	4006784	4007402	-	hypothetical protein	
+LOCUS_51640	4007574	4007784	+	hypothetical protein	
+LOCUS_51650	4007794	4008136	+	hypothetical protein	
+LOCUS_51660	4008619	4008961	-	UPF0344 protein	
+LOCUS_51670	4009164	4009386	+	putative spore germination protein GerPA	
+LOCUS_51680	4009412	4009679	+	hypothetical protein	
+LOCUS_51690	4009772	4010423	+	putative spore germination protein GerPC	
+LOCUS_51700	4010419	4010596	+	putative spore germination protein GerPD	
+LOCUS_51710	4010609	4011065	+	putative spore germination protein GerPE	
+LOCUS_51720	4011125	4011344	+	putative spore germination protein GerPF	
+LOCUS_51730	4011372	4011678	-	hypothetical protein	
+
+
+Significant hits: 
+1. BGC0000645	carotenoid
+
+
+Details:
+
+>>
+1. BGC0000645
+Source: carotenoid
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1470
+
+Table of genes, locations, strands and annotations of subject cluster:
+ACM07424.1	ACM07424.1	1	1485	+	CrtNa
+ACM07425.1	ACM07425.1	1482	2963	+	CrtNc
+ACM07426.1	ACM07426.1	2966	3802	+	CrtM
+ACM07427.1	ACM07427.1	4231	5808	-	CrtNb
+ACM07428.1	ACM07428.1	5691	6800	-	putative_glycosyl_transferase_family_2_protein
+ACM07429.1	ACM07429.1	6819	7475	-	putative_phospholipid/glycerol_acyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+LOCUS_51590	ACM07426.1	51	289	98.56115107913669	7.9e-78
+LOCUS_51600	ACM07425.1	54	535	99.3801652892562	8.5e-152
+LOCUS_51610	ACM07424.1	64	646	94.69548133595285	4.7e-185
+
